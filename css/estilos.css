@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffffff;
+}
+.formu{
+    width: 600px;
+    margin: 0 auto;
+}
+.nos{
+    margin: 0 auto;
+}
+.atencion{
+    text-align: right;
+    
+    
+}
+.redes{
+    text-align: center;
+
+}
+.redes{
+    text-align: center;
+    
+    
+}
+.texto {
+    text-align: center;
+
+}
+.link {
+    text-align: center;
+    text-decoration: none;
+}
